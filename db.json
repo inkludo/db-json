@@ -5,63 +5,72 @@
         "isSale": true,
         "name": "Balsam",
         "price":  299,
-        "img": "./images/balsam.webp"
+        "img": "./images/balsam.webp",
+        "alt": "balsam"
       },
       {
         "id": 2,
         "isSale": true,
         "name": "Ashford",
         "price":  315,
-        "img": "./images/ashford.webp"
+        "img": "./images/ashford.webp",
+        "alt": "Ashford"
       },
       {
         "id": 3,
         "isSale": true,
         "name": "Manhattan Plank",
         "price":  429,
-        "img": "./images/manhattan-plank.webp"
+        "img": "./images/manhattan-plank.webp",
+        "alt": "Manhattan Plank"
       },
       {
         "id": 4,
         "isSale": false,
         "name": "Trevista 80 Textured",
         "price":  453,
-        "img": "./images/trevista-80-textured.webp"
+        "img": "./images/trevista-80-textured.webp",
+        "alt": "Trevista 80 Textured"
       },
       {
         "id": 5,
         "isSale": false,
         "name": "Adelaide 80",
         "price":  542,
-        "img": "./images/adelaide-80.webp"
+        "img": "./images/adelaide-80.webp",
+        "alt": "Adelaide 80"
       },
       {
         "id": 6,
         "isSale": true,
         "name": "Richmond 80",
         "price":  345,
-        "img": "./images/richmond-80.webp"
+        "img": "./images/richmond-80.webp",
+        "alt": "Richmond 80"
       },
       {
         "id": 7,
         "isSale": true,
         "name": "Ardesia",
         "price":  322,
-        "img": "./images/ardesia.webp"
+        "img": "./images/ardesia.webp",
+        "alt": "Ardesia"
       },
       {
         "id": 8,
         "isSale": true,
         "name": "Strada Nova",
         "price":  390,
-        "img": "./images/strada-nova.webp"
+        "img": "./images/strada-nova.webp",
+        "alt": "Strada Nova"
       },
       {
         "id": 9,
         "isSale": false,
         "name": "Moderna",
         "price":  415,
-        "img": "./images/moderna.webp"
+        "img": "./images/moderna.webp",
+        "alt": "Moderna"
       }
     ]
   }
