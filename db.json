@@ -1,0 +1,58 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "isSale": true,
+        "name": "Balsam",
+        "price":  299
+      },
+      {
+        "id": 2,
+        "isSale": true,
+        "name": "Ashford",
+        "price":  315
+      },
+      {
+        "id": 3,
+        "isSale": true,
+        "name": "Manhattan Plank",
+        "price":  429
+      },
+      {
+        "id": 4,
+        "isSale": false,
+        "name": "Trevista 80 Textured",
+        "price":  453
+      },
+      {
+        "id": 5,
+        "isSale": false,
+        "name": "Adelaide 80",
+        "price":  542
+      },
+      {
+        "id": 6,
+        "isSale": true,
+        "name": "Richmond 80",
+        "price":  345
+      },
+      {
+        "id": 7,
+        "isSale": true,
+        "name": "Ardesia",
+        "price":  322
+      },
+      {
+        "id": 8,
+        "isSale": true,
+        "name": "Strada Nova",
+        "price":  390
+      },
+      {
+        "id": 9,
+        "isSale": false,
+        "name": "Moderna",
+        "price":  415
+      }
+    ]
+  }
