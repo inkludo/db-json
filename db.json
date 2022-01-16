@@ -5,7 +5,7 @@
         "isSale": true,
         "name": "Balsam",
         "price":  299,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/balsam.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/balsam.webp",
         "alt": "balsam"
       },
       {
@@ -13,7 +13,7 @@
         "isSale": true,
         "name": "Ashford",
         "price":  315,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/ashford.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/ashford.webp",
         "alt": "Ashford"
       },
       {
@@ -21,7 +21,7 @@
         "isSale": true,
         "name": "Manhattan Plank",
         "price":  429,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/manhattan-plank.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/manhattan-plank.webp",
         "alt": "Manhattan Plank"
       },
       {
@@ -29,7 +29,7 @@
         "isSale": false,
         "name": "Trevista 80 Textured",
         "price":  453,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/trevista-80-textured.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/trevista-80-textured.webp",
         "alt": "Trevista 80 Textured"
       },
       {
@@ -37,7 +37,7 @@
         "isSale": false,
         "name": "Adelaide 80",
         "price":  542,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/adelaide-80.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/adelaide-80.webp",
         "alt": "Adelaide 80"
       },
       {
@@ -45,7 +45,7 @@
         "isSale": true,
         "name": "Richmond 80",
         "price":  345,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/richmond-80.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/richmond-80.webp",
         "alt": "Richmond 80"
       },
       {
@@ -53,7 +53,7 @@
         "isSale": true,
         "name": "Ardesia",
         "price":  322,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/ardesia.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/ardesia.webp",
         "alt": "Ardesia"
       },
       {
@@ -61,7 +61,7 @@
         "isSale": true,
         "name": "Strada Nova",
         "price":  390,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/strada-nova.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/strada-nova.webp",
         "alt": "Strada Nova"
       },
       {
@@ -69,7 +69,7 @@
         "isSale": false,
         "name": "Moderna",
         "price":  415,
-        "img": "https://api.allorigins.win/raw?url=https://blissful-jennings-6a1d5f.netlify.app/images/moderna.webp",
+        "img": "https://api.allorigins.win/raw?url=https://suspicious-mayer-67689b.netlify.app/images/moderna.webp",
         "alt": "Moderna"
       }
     ]
